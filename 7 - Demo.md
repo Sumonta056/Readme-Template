@@ -1,11 +1,3 @@
-<div alignv= "center">
-
-------- 👇 **Template Demo Below** 👇 --------
-
-<hr>
-</div>
-
-
 <div align="center">
 <a href="https://github.com/Sumonta056/FixHub-Issue-Tracker-Website" target="blank">
 <img src="./assets/chatBot.png" width="80" alt="Logo" />
