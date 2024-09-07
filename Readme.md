@@ -1,6 +1,7 @@
 <div align= "center">
 
 ------- 👇 **Template Demo Below** 👇 --------
+⭐ **If you like this project, please star the repository!** ⭐
 
 <hr>
 </div>
@@ -19,7 +20,7 @@
 ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![](https://img.shields.io/badge/Radix_UI-6200EE?style=for-the-badge&logo=radix-ui&logoColor=white)
 
-<img src ="./assets/bg-2.jpg" width="95%">
+<img src ="./assets/bg-3.webp" width="95%">
 </div>
 
 ## 💡 Overview
