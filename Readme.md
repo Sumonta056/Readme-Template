@@ -5,7 +5,6 @@
 <hr>
 </div>
 
-
 <div align="center">
 <a href="https://github.com/Sumonta056/FixHub-Issue-Tracker-Website" target="blank">
 <img src="./assets/chatBot.png" width="80" alt="Logo" />
@@ -55,11 +54,11 @@ Whether you're a solo developer or part of a large team, FixHub is the perfect t
 - [quran-tafseer](http://api.quran-tafseer.com/en/docs) to get the tafseer
 - [explorequran](https://www.explorequran.org) random ayah source
 
-## 💻 Getting Started
+## 📦 Getting Started
 
 To get a local copy of this project up and running, follow these steps.
 
-### ✔ Prerequisites
+### 🚀 Prerequisites
 
 - **Bun**: Ensure you have Bun installed. Follow the [official Bun installation guide](https://bun.sh/docs/installation).
 - PostgreSQL (or another supported SQL database)
@@ -118,7 +117,7 @@ To get a local copy of this project up and running, follow these steps.
 - **Development mode:** `bun dev`
 - **Production mode:** `bun run build && bun start`
 
-## 💚 Contributing
+## 🤝 Contributing
 
 We welcome contributions to this project. Please follow these steps to contribute:
 
