@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![](https://img.shields.io/badge/Radix_UI-6200EE?style=for-the-badge&logo=radix-ui&logoColor=white)
 
-<img src ="./assets/bg-3.webp" width="95%">
+<img src ="./assets/bg-3.webp" width="80%">
 
 </div>
 
@@ -47,14 +47,14 @@ Whether you're a solo developer or part of a large team, FixHub is the perfect t
 - **Hono**: A lightweight web framework for building server-side applications with TypeScript.
 - **Drizzle ORM**: TypeScript-first ORM for type-safe database access.
 - **React Query**: Data-fetching library for managing server-state in React applications.
-- **npm**: A fast JavaScript runtime that includes a package manager, task runner, and more.
+- **Npm Package**: A fast JavaScript runtime that includes a package manager, task runner, and more.
 
 ## 📖 Sources and external API's
 
-- [quran-json](https://github.com/risan/quran-json) to get the text of the quran in different languages
-- [everyayah](https://everyayah.com) to get the audio each aya
-- [quran-tafseer](http://api.quran-tafseer.com/en/docs) to get the tafseer
-- [explorequran](https://www.explorequran.org) random ayah source
+- [NASA](https://www.nasa.gov) for space exploration and research
+- [National Geographic](https://www.nationalgeographic.com) for nature and science articles
+- [Stack Overflow](https://stackoverflow.com) for programming questions and answers
+- [Wikipedia](https://www.wikipedia.org) for a wide range of information on various topics
 
 ## 📦 Getting Started
 
@@ -71,8 +71,8 @@ To get a local copy of this project up and running, follow these steps.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mo-hassann/nextjs-quran-app.git
-   cd nextjs-quran-app
+   git clone https://github.com/sumonta056/readme-template.git
+   cd readme-template
    ```
 
 2. **Install dependencies:**
@@ -122,7 +122,7 @@ To get a local copy of this project up and running, follow these steps.
 - **Development mode:** `npm run dev`, `yarn dev`, or `bun dev`.
 - **Production mode:** `npm run build && npm start`, `yarn build && yarn start`, or `bun run build && bun start`.
 
-Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+> Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
 ### 🔥 API Documentation
 
@@ -142,7 +142,7 @@ Please make sure to update tests as appropriate.
 
 ## 🐛 Issues
 
-If you encounter any issues while using or setting up the project, please check the [Issues](https://github.com/mo-hassann/nextjs-quran-app/issues) section to see if it has already been reported. If not, feel free to open a new issue detailing the problem.
+If you encounter any issues while using or setting up the project, please check the [Issues]() section to see if it has already been reported. If not, feel free to open a new issue detailing the problem.
 
 When reporting an issue, please include:
 
