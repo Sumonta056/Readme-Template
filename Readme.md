@@ -30,13 +30,13 @@ FixHub is a powerful and intuitive issue tracker built using Next.js and SQL, de
 
 ## ✨ Features
 
-- **🔐 User Authentication and Access Control:** Secure login and personalized access levels ensure that only authorized users can manage or view issues.
-- **🌍 Issue Assignment:** Creating, Viewing, Updating and Deleting Issues. Assign tasks to team members effortlessly, keeping everyone accountable and informed.
-- **🔍 Advanced Filtering & Sorting:** Easily filter and sort issues to quickly find and prioritize tasks.
-- **📄 Pagination & Analytics:** Navigate through large lists of issues with pagination and gain insights with charts and a comprehensive dashboard.
-- **🎯 Production-Ready Optimization:** Built for speed and reliability, FixHub is optimized for production environments, ensuring smooth performance at scale.
-- **🔧 Customization & Flexibility:** Tailor FixHub to your needs with customizable settings and configurations.
-- **📱 Responsive Design:** Access FixHub on any device with a responsive design that adapts to various screen sizes.
+- **🔐 User Authentication:** Secure login with personalized access levels.
+- **🌍 Issue Management:** Create, view, update, and delete issues; assign tasks to team members.
+- **🔍 Filtering & Sorting:** Advanced options to quickly find and prioritize tasks.
+- **📄 Pagination & Analytics:** Navigate large lists and gain insights with charts and dashboards.
+- **🎯 Production Optimization:** Built for speed and reliability in production environments.
+- **🔧 Customization:** Tailor settings and configurations to your needs.
+- **📱 Responsive Design:** Access on any device with adaptive design.
 
 Whether you're a solo developer or part of a large team, FixHub is the perfect tool for tracking and resolving issues with ease.🐞
 
@@ -63,7 +63,7 @@ To get a local copy of this project up and running, follow these steps.
 ### 🚀 Prerequisites
 
 - **Node.js** (v16.x or higher) and **npm** or **yarn**.
-- **Npm**: If you prefer using npm for package management and running scripts.
+- **Npm** If you prefer using npm for package management and running scripts.
 - **PostgreSQL** (or another supported SQL database).
 
 ## 🛠️ Installation
@@ -113,18 +113,16 @@ To get a local copy of this project up and running, follow these steps.
    npm run dev
    ```
 
-   Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
-
 ## 📖 Usage
 
-### ✔ Running the app
+### ✔ Running the Website
 
 - **Development mode:** `npm run dev`, `yarn dev`, or `bun dev`.
 - **Production mode:** `npm run build && npm start`, `yarn build && yarn start`, or `bun run build && bun start`.
 
 > Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
-### 🔥 API Documentation
+### 📃 API Documentation
 
 The API documentation for this application is available at [http://localhost:3000/api/docs](http://localhost:3000/api/docs). It details all endpoints and their usage.
 
