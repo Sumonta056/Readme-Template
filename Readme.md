@@ -1,4 +1,4 @@
-<div alignv= "center">
+<div align= "center">
 
 ------- 👇 **Template Demo Below** 👇 --------
 
