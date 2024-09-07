@@ -47,7 +47,7 @@ Whether you're a solo developer or part of a large team, FixHub is the perfect t
 - **Hono**: A lightweight web framework for building server-side applications with TypeScript.
 - **Drizzle ORM**: TypeScript-first ORM for type-safe database access.
 - **React Query**: Data-fetching library for managing server-state in React applications.
-- **Bun**: A fast JavaScript runtime that includes a package manager, task runner, and more.
+- **npm**: A fast JavaScript runtime that includes a package manager, task runner, and more.
 
 ## 📖 Sources and external API's
 
@@ -62,8 +62,9 @@ To get a local copy of this project up and running, follow these steps.
 
 ### 🚀 Prerequisites
 
-- **Bun**: Ensure you have Bun installed. Follow the [official Bun installation guide](https://bun.sh/docs/installation).
-- PostgreSQL (or another supported SQL database)
+- **Node.js** (v16.x or higher) and **npm** or **yarn**.
+- **Npm**: If you prefer using npm for package management and running scripts.
+- **PostgreSQL** (or another supported SQL database).
 
 ## 🛠️ Installation
 
@@ -76,10 +77,10 @@ To get a local copy of this project up and running, follow these steps.
 
 2. **Install dependencies:**
 
-   Using Bun:
+   Using Npm:
 
    ```bash
-   bun install
+   npm install
    ```
 
 3. **Set up environment variables:**
@@ -103,21 +104,29 @@ To get a local copy of this project up and running, follow these steps.
    Ensure your database is running and then run:
 
    ```bash
-   bun run drizzle-kit migrate
+   npm run drizzle-kit migrate
    ```
 
 5. **Start the development server:**
 
    ```bash
-   bun dev
+   npm run dev
    ```
 
    Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
+## 📖 Usage
+
 ### ✔ Running the app
 
-- **Development mode:** `bun dev`
-- **Production mode:** `bun run build && bun start`
+- **Development mode:** `npm run dev`, `yarn dev`, or `bun dev`.
+- **Production mode:** `npm run build && npm start`, `yarn build && yarn start`, or `bun run build && bun start`.
+
+Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+
+### 🔥 API Documentation
+
+The API documentation for this application is available at [http://localhost:3000/api/docs](http://localhost:3000/api/docs). It details all endpoints and their usage.
 
 ## 🤝 Contributing
 

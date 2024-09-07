@@ -1,4 +1,4 @@
-## 💚 Contributing
+## 🤝 Contributing
 
 We welcome contributions to this project. Please follow these steps to contribute:
 
